@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juega-al-maximo-nivel.com/sitemap.xml
